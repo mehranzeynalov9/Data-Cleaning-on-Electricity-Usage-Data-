@@ -42,4 +42,7 @@ Question 5: **Based on your historic electricity usage, what would your annual c
     
 Question 6: **Based on your historic electricity usage, which of the three contracts would pro- duce the lowest annual cost?**
     
-    a. The No Flex plan b. The Monthly Flex plan c. The Hourly Flex plan d. Impossible to Determine
+    a. The No Flex plan 
+    b. The Monthly Flex plan 
+    c. The Hourly Flex plan 
+    d. Impossible to Determine
